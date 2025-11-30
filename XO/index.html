@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>XO Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+  <h1>XO Game</h1>
+
+  <!-- Mode Selection -->
+  <div class="mode-box">
+    <button onclick="setMode('player')">👥 2 Player</button>
+    <button onclick="setMode('system')">💻 Play With System</button>
+  </div>
+
+  <h2 id="status">Select Game Mode</h2>
+
+  <div id="board"></div>
+
+  <button id="resetBtn">Reset Game</button>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
