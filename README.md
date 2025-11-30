@@ -1,102 +1,54 @@
-📘 README — XO Game (Tic-Tac-Toe in JavaScript)
-🎮 XO Game – JavaScript
+🎮 XO Game (Tic-Tac-Toe)
+✨ JavaScript | HTML | CSS | 2 Player | AI Mode
+<p align="center"> <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge" /> <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" /> <img src="https://img.shields.io/badge/Game-TicTacToe-blue?style=for-the-badge" /> </p> <p align="center"> <img src="https://img.shields.io/github/stars/YOUR-USERNAME/YOUR-REPO?style=social"> </p>
+🎯 Overview
 
-A simple and interactive Tic-Tac-Toe (XO) game built using HTML, CSS, and JavaScript.
+A clean and interactive XO Game (Tic-Tac-Toe) built using pure JavaScript, featuring:
 
-This project includes:
+👥 2 Player Mode
 
-✅ 2 Player Mode
-✅ Play With System (AI)
-✅ Clean UI
-✅ Simple game logic
-✅ Reset button
-✅ Works in any browser — no installation needed
+💻 Play With System (AI Mode)
 
-📂 Folder Structure
+🎨 Clean Modern UI
+
+🔁 Reset Game Button
+
+⚡ Zero installation → runs directly in browser
+
+📸 Screenshots
+
+(Replace the placeholders with actual image URLs)
+
+<p align="center"> <img src="YOUR_SCREENSHOT_URL" width="450" /> </p>
+📂 Project Structure
 xo-game/
 │
-├── index.html # Main HTML file
-├── style.css # UI styling
-└── script.js # Game logic + AI
+├── index.html     # Main HTML file
+├── style.css      # Styling
+└── script.js      # Game logic + AI mode
 
-🚀 How to Run the Game
-Method 1: Open Directly (Simple)
+🚀 Live Demo
 
-Download the project folder
+👉 (Add GitHub Pages link here if you deploy)
+https://your-username.github.io/xo-game
 
-Open index.html
+🕹️ Game Modes
+1️⃣ Two Player Mode
 
-The game runs instantly in your browser
-👉 No installation required
+Player X and O play turn-by-turn
 
-Method 2: Run Using VS Code (Recommended)
+Winner or draw detected automatically
 
-Open VS Code
-
-Go to File → Open Folder
-
-Select the xo-game folder
-
-Install extension Live Server
-
-Right-click on index.html → Run With Live Server
-
-Game opens at:
-
-http://localhost:5500/
-
-🎮 Game Modes
-1️⃣ Two Player Mode (Human vs Human)
-
-Player X and Player O play by taking turns
-
-Game announces winner or draw
-
-2️⃣ Play With System (Human vs Computer)
+2️⃣ Play With System (AI Mode)
 
 You play as X
 
-System (computer) plays as O
+System (O) makes automatic moves
 
-Computer makes random valid moves
+Simple random AI (upgradeable)
 
-(You can upgrade the AI later)
-
-🧠 Features
-Feature Description
-🎮 Game Modes 2 Player & Play With System
-🧩 AI Mode Basic computer opponent
-🧼 Reset Button Reset the game anytime
-🖥️ Browser Based Runs on any browser
-💡 Simple Code Easy to learn and modify
 🛠️ Technologies Used
-
-HTML → Structure
-
-CSS → Styling
-
-JavaScript → Game Logic + AI
-
-📸 Screenshot (Optional)
-
-(Add image if you have one)
-
-🔧 How to Modify the Game
-
-You can improve or extend the game:
-
-Add unbeatable AI (Minimax Algorithm)
-
-Add sound effects
-
-Add animations
-
-Add highlight winning cells
-
-Add scoreboard
-
-Make the board responsive
-
-📜 License
-
-This project is free to use, modify, and share.
+Technology	Purpose
+HTML	Structure
+CSS	Styling & Layout
+JavaScript (ES6)	Game Logic & AI
