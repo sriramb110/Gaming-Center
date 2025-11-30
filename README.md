@@ -52,3 +52,35 @@ Technology	Purpose
 HTML	Structure
 CSS	Styling & Layout
 JavaScript (ES6)	Game Logic & AI
+
+---
+
+---
+
+
+# 🐍 Snake & Ladder Game 🎲  
+A simple and fun **Snake & Ladder game** built using **HTML, CSS, and JavaScript**, based on the board layout below.
+
+---
+
+## 🧩 Game Board  
+The game uses the following Snake & Ladder board:
+
+![Snake & Ladder Board](./Snake-Ladder-Game/board.png)
+
+---
+
+## 🎮 Features
+
+✔ Real board background  
+✔ Player token moves accurately on the board  
+✔ Snakes drop you down  
+✔ Ladders lift you up  
+✔ Dice roll animation  
+✔ Single-player gameplay  
+✔ Clean and simple UI  
+---
+
+## 📁 Project Structure
+
+
